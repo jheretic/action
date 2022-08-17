@@ -10,6 +10,7 @@ packages=(
   base-devel        # makepkg depends on this
   bash              # obviously already installed, but still here for completeness sake
   git               # some sources are git urls
+  libgit2
   archlinux-keyring # avoid failures due to outdated keys
 )
 
